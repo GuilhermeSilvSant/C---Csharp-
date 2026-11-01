@@ -12,16 +12,17 @@ Obs:"Se você não quiser usar a dependência , o console terá que ter System a
 
 ## Codigo
 
+```csharp
 using System;
 
 namespace HelloWorld
 {
-  class Program
-  {
-    static void Main(string[] args)
+    class Program
     {
-      Console.WriteLine("Hello World!"); 
-      //System.Console.WriteLine("Hello World!");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
     }
-  }
 }
+```
