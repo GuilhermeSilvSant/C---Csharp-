@@ -1,0 +1,13 @@
+Trilha de Aprendizado C#
+
+Sumário
+
+* [1. Fundamentos da Linguagem](./fundamentos/README.md)
+  * [Tipos de Dados e Variáveis](./fundamentos/tipos-e-variaveis.md)
+  * [Estruturas de Controle](./fundamentos/estruturas-de-controle.md)
+* [2. Recursos Intermediários e Manipulação de Dados](./intermediario/README.md)
+  * [Coleções e LINQ](./intermediario/linq.md)
+* [3. Assincronicidade e Programação Concorrente](./assincrono/README.md)
+  * [Async / Await](./assincrono/async-await.md)
+* [4. Ecossistema .NET e Desenvolvimento Web (.NET 10 / ASP.NET Core)](./dotnet-web/README.md)
+* [5. Arquitetura, Avançado e Tooling](./avancado/README.md)
