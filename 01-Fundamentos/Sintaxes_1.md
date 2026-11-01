@@ -2,8 +2,8 @@
 
 ## Consoles Write
 
-Console.WriteLine = Escreve Linhas , Ocupando Uma Linha de Espaço
-Console.Write = Escreve Linhas , Sem ocupar Linhas
+- Console.WriteLine = Escreve Linhas , Ocupando Uma Linha de Espaço
+- Console.Write = Escreve Linhas , Sem ocupar Linhas
 
 ```csharp
 
